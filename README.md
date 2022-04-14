@@ -20,4 +20,4 @@ After adding to cart you can your address data and save everything to txt file.
 ![image](https://user-images.githubusercontent.com/64408066/163354413-0ba83def-5fd6-4b4e-916d-5a141881c1b3.png)
 
 ***Saving cart to txt***
-![image](https://user-images.githubusercontent.com/64408066/163354606-934292c1-e010-473a-a4cf-79f604018ad8.png)
+![image](https://user-images.githubusercontent.com/64408066/163355458-b64fc3d3-6c65-4910-b334-f8cfba600280.png)
